@@ -242,7 +242,7 @@ export default {
       this.titleForm = "Cadastrar usuario";
       this.titleButton = "Cadastrar";
       this.user = {
-        id: "",
+        id: null,
         name: "",
         email: "",
         password: "",
